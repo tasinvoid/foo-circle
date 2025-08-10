@@ -85,7 +85,7 @@ async function run() {
         });
       } catch (err) {
         console.error("Error while sending mail", err);
-        // Send an error response
+        // Send n error response
         res.status(500).json({ error: "Failed to send email" });
       }
     });
