@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "mogodb": "^0.0.1-security",
+    "mongodb": "^6.17.0",
+    "nodemailer": "^7.0.5"
+  },
+  "name": "b11a11-server-side-tasinvoid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-tasinvoid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-tasinvoid/issues"
+  },
+  "homepage": "https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-tasinvoid#readme"
+}
